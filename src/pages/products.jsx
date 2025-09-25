@@ -1,10 +1,12 @@
 import NavBar from "../components/navbar";
+import Product from "../components/product";
 
-export default function Products(){
-    return (
-        <div>
-            <NavBar />
-            <h1>HELLOOOOOOO!!!!!!!</h1>
-        </div>
-    )
+
+export default function ProductsPage(){
+  return (
+    <div>
+      <NavBar />
+      <Product />
+    </div>
+  )
 }
