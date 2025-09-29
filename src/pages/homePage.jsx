@@ -1,6 +1,5 @@
 import styles from"../pages/HomePage.module.css";
 import Testmonials from '../components/testmonials'
-import Navbar from '../components/navbar'
 import comfortRoom from "../assets/comfortRoom.png";
 import dining from "../assets/dining.png";
 import bedroomSerenity from "../assets/bedroomSerenity.png";
@@ -12,11 +11,11 @@ import Footer from'../components/footer'
 import HeroSection from "../components/hero";
 
 
+
 export default function HomePage() {
   return (
 
     <div>
-      <Navbar />
       {/* Hero Section */}
       <HeroSection />
       {/* Collections Section */}

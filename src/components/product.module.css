@@ -33,3 +33,14 @@
     margin-bottom: 2rem;
     width: 50%;
 }
+
+.sectionSpacing {
+  padding-top : 8rem; /* adjust as needed */
+}
+.b{
+    background-color: white;
+    color: black;
+}
+.b:hover{
+background-color: black;
+}

@@ -1,0 +1,32 @@
+.heroOverride {
+      background: url("../assets/collection.png");
+      position: relative;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 100vh;
+      justify-content: center;
+      padding: 0 20%;
+}
+
+.redefine{
+      padding-top: 10rem;
+      text-align: center;
+      align-items: center;
+      
+}
+.redefine h1{
+      font-weight: bold;
+}
+.redefine p{
+      padding-top:1rem ;
+      width: 38%;
+      margin: 0 auto;
+}
+.redefine button{
+      margin-top:1rem ;
+      font-weight: bold;
+}
+.explr{
+      margin-top: 0,auto;
+}
